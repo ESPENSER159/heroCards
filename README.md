@@ -11,7 +11,7 @@ npm install
 ### Run the build
 
 ```bash
-npm run dev
+npm run build
 ```
 
 ### Run project
